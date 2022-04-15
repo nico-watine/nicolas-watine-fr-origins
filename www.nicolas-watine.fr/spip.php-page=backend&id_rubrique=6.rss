@@ -1,0 +1,57 @@
+<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Nicolas Watine</title>
+	<link>http://www.nicolas-watine.fr/</link>
+	
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+<item xml:lang="fr">
+		<title>CONTACT</title>
+		<link>http://www.nicolas-watine.fr/spip.php?article3</link>
+		<guid isPermaLink="true">http://www.nicolas-watine.fr/spip.php?article3</guid>
+		<dc:date>2010-11-23T08:01:32Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Nicolas Watine</dc:creator>
+
+
+
+		<description>
+&lt;p&gt;Manoir de Sarton &lt;br class='autobr' /&gt; 4, rue de l'Eglise&lt;br class='autobr' /&gt; 62760 SARTON&lt;br class='autobr' /&gt; T&#233;l. : 06 88 78 20 20&lt;br class='autobr' /&gt; nicolas.watine@outlook.fr&lt;/p&gt;
+
+
+-
+&lt;a href="http://www.nicolas-watine.fr/spip.php?rubrique6" rel="directory"&gt;Contact&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>&lt;div class='rss_texte'&gt;&lt;p style=&#034;text-align: right; font-style: normal; margin-bottom: 0cm&#034;&gt;&lt;br class='autobr' /&gt; &lt;img alt=&#034;&#034; src='http://www.nicolas-watine.fr/local/cache-vignettes/L300xH372/watinejpg-141454-7ee3b.jpg' style=' float: right; margin-right:20px' width='300' height='372' /&gt;&lt;/p&gt;
+&lt;p style=&#034;font-style: normal; margin-bottom: 0cm&#034;&gt;&lt;br class='autobr' /&gt; Manoir de Sarton&lt;/p&gt;
+&lt;p align=&#034;left&#034; style=&#034;font-style: normal; margin-bottom: 0cm&#034;&gt;&lt;br class='autobr' /&gt; 4, rue de l'Eglise&lt;br /&gt;	62760 SARTON&lt;br /&gt;	&lt;br /&gt;	T&#233;l. : 06 88 78 20 20&lt;br /&gt;	&lt;br /&gt;	&lt;a href=&#034;mailto:nicolas.watine@wanadoo.fr&#034; class='spip_mail'&gt;&lt;span&gt;nicolas.watine@outlook.fr&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;	&lt;br /&gt;	&lt;br /&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&lt;span class=&#034;base64php17013169645a1da9169307b8.80823108&#034; title=&#034;PD9waHAgCmluY2x1ZGVfb25jZSgiLi8iIC4gX0RJUl9SQUNJTkUgLiAiZWNyaXJlL2JhbGlzZS9mb3JtdWxhaXJlXy5waHAiKTsKaWYgKCRsYW5nX3NlbGVjdCA9ICJmciIpICRsYW5nX3NlbGVjdCA9IGxhbmdfc2VsZWN0KCRsYW5nX3NlbGVjdCk7Cmluc2VyZXJfYmFsaXNlX2R5bmFtaXF1ZShiYWxpc2VfRk9STVVMQUlSRV9fZHluKCdGT1JNVUxBSVJFX0NPTlRBQ1QnKSwgYXJyYXkoJycsICcnLCAnJywgJycsICdmcicpKTsKaWYgKCRsYW5nX3NlbGVjdCkgbGFuZ19zZWxlY3QoKTsKPz4=&#034;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+
+	</item>
+
+
+
+</channel>
+
+</rss>

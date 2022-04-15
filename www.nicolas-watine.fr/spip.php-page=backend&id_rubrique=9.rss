@@ -1,0 +1,94 @@
+<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Nicolas Watine</title>
+	<link>http://www.nicolas-watine.fr/</link>
+	
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+<item xml:lang="fr">
+		<title>Natures Mortes</title>
+		<link>http://www.nicolas-watine.fr/spip.php?article5</link>
+		<guid isPermaLink="true">http://www.nicolas-watine.fr/spip.php?article5</guid>
+		<dc:date>2010-11-29T11:34:02Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Nicolas Watine</dc:creator>
+
+
+
+		<description>
+
+-
+&lt;a href="http://www.nicolas-watine.fr/spip.php?rubrique9" rel="directory"&gt;Natures Mortes&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>
+		</content:encoded>
+
+
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/10_-_20F_coll_part.jpg" length="23634" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/207_-_50x40_cm_.jpg" length="54510" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/369_-_50x50_.jpg" length="287457" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/260_-_65x54_cm_.jpg" length="52658" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/280_-_50x40_cm_.jpg" length="30371" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/345_-_73x60_cm_.jpg" length="73517" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/398_-_60x60_cm_.jpg" length="55557" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/404_-_73x60_cm_.jpg" length="46721" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/413_-_50x40_cm_.jpg" length="104160" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/428_-_50x50_cm_.jpg" length="63908" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/456_-_40x40_cm_.jpg" length="84344" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/471_-_65x54_cm_.jpg" length="51346" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/89_-_100x100_.jpg" length="41454" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/342_-_40F_.jpg" length="344998" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/355_-_12F_.jpg" length="215823" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/418_-_6F_.jpg" length="357090" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/375_-_50F.jpg" length="307887" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/344_-_12F_.jpg" length="314922" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/356_-_9F_.jpg" length="205868" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/354_-_50x50_2_.jpg" length="306496" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/346_-_80x80_.jpg" length="250040" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/341_-_40F_.jpg" length="193128" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+</channel>
+
+</rss>

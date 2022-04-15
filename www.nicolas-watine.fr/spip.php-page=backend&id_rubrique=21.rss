@@ -1,0 +1,109 @@
+<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Nicolas Watine</title>
+	<link>http://www.nicolas-watine.fr/</link>
+	
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+<item xml:lang="en">
+		<title>Venice on crumpeld paper</title>
+		<link>http://www.nicolas-watine.fr/spip.php?article21</link>
+		<guid isPermaLink="true">http://www.nicolas-watine.fr/spip.php?article21</guid>
+		<dc:date>2011-03-12T15:26:17Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>en</dc:language>
+		<dc:creator>Nicolas Watine</dc:creator>
+
+
+
+		<description>
+
+-
+&lt;a href="http://www.nicolas-watine.fr/spip.php?rubrique21" rel="directory"&gt;Venice&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>
+		</content:encoded>
+
+
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/377_PAPIER_.jpg" length="64093" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/382_PAPIER_.jpg" length="113740" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/383_PAPIER_bis_.jpg" length="110787" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/384_PAPIER_.jpg" length="102661" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/386_PAPIER_.jpg" length="101255" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/390_PAPIER_.jpg" length="104593" type="image/jpeg" />
+		
+
+	</item>
+<item xml:lang="en">
+		<title>Venice on canevas</title>
+		<link>http://www.nicolas-watine.fr/spip.php?article20</link>
+		<guid isPermaLink="true">http://www.nicolas-watine.fr/spip.php?article20</guid>
+		<dc:date>2011-03-12T15:23:36Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>en</dc:language>
+		<dc:creator>Nicolas Watine</dc:creator>
+
+
+
+		<description>
+
+-
+&lt;a href="http://www.nicolas-watine.fr/spip.php?rubrique21" rel="directory"&gt;Venice&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>
+		</content:encoded>
+
+
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/219_-_41x33_cm_.jpg" length="60364" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/189_-_46x38_cm_.jpg" length="126139" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/292_-_8F_.jpg" length="359731" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/169_-_15F.jpg" length="246551" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/119_-_15F.jpg" length="338737" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/265_-_92x73_cm_F.jpg" length="104863" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/323_-_100x100_cm_.jpg" length="77995" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/338_-_116x89_cm_.jpg" length="96297" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/320_-_116x89_cm_.jpg" length="85055" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/376_-_30F_.jpg" length="316832" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+</channel>
+
+</rss>

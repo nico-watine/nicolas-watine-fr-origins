@@ -1,0 +1,58 @@
+<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Nicolas Watine</title>
+	<link>http://www.nicolas-watine.fr/</link>
+	
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+<item xml:lang="en">
+		<title>Landscapes</title>
+		<link>http://www.nicolas-watine.fr/spip.php?article23</link>
+		<guid isPermaLink="true">http://www.nicolas-watine.fr/spip.php?article23</guid>
+		<dc:date>2011-03-12T15:32:02Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>en</dc:language>
+		<dc:creator>Nicolas Watine</dc:creator>
+
+
+
+		<description>
+
+-
+&lt;a href="http://www.nicolas-watine.fr/spip.php?rubrique23" rel="directory"&gt;Landscapes&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>
+		</content:encoded>
+
+
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100226_-_80x80_cm_.jpg" length="43693" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/13_-_80x80_cm_.jpg" length="33574" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/72_-_80x80_cm_.jpg" length="47175" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/273_-_92x73_cm_.jpg" length="31130" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+</channel>
+
+</rss>

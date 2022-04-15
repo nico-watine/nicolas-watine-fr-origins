@@ -1,0 +1,80 @@
+<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Nicolas Watine</title>
+	<link>http://www.nicolas-watine.fr/</link>
+	
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+<item xml:lang="fr">
+		<title>Affiches</title>
+		<link>http://www.nicolas-watine.fr/spip.php?article9</link>
+		<guid isPermaLink="true">http://www.nicolas-watine.fr/spip.php?article9</guid>
+		<dc:date>2010-12-01T12:55:16Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Nicolas Watine</dc:creator>
+
+
+
+		<description>
+
+-
+&lt;a href="http://www.nicolas-watine.fr/spip.php?rubrique5" rel="directory"&gt;Affiches&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>
+		</content:encoded>
+
+
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_1_-2.jpg" length="462130" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_10_-2.jpg" length="531883" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_11_-2.jpg" length="489042" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_12_-2.jpg" length="258565" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_14_-2.jpg" length="278012" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_2_-2.jpg" length="412600" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_3_-2.jpg" length="476139" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_4_-2.jpg" length="230312" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_5_-2.jpg" length="322652" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_6_-2.jpg" length="478489" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_7_-2.jpg" length="381904" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_8_-2.jpg" length="316174" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_9_-2.jpg" length="258691" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/AFFICHES_-2.jpg" length="482130" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/DSC00055.jpg" length="282729" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+</channel>
+
+</rss>

@@ -1,0 +1,138 @@
+<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Nicolas Watine</title>
+	<link>http://www.nicolas-watine.fr/</link>
+	
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+<item xml:lang="fr">
+		<title>Marines</title>
+		<link>http://www.nicolas-watine.fr/spip.php?article4</link>
+		<guid isPermaLink="true">http://www.nicolas-watine.fr/spip.php?article4</guid>
+		<dc:date>2010-11-28T15:10:32Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Nicolas Watine</dc:creator>
+
+
+
+		<description>
+
+-
+&lt;a href="http://www.nicolas-watine.fr/spip.php?rubrique8" rel="directory"&gt;Marines&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>
+		</content:encoded>
+
+
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110821_-_100_x_50_cm.jpg" length="109803" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/Copie_de_120120_-_100_x_100_cm.jpg" length="192102" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110602_-_40F.jpg" length="127371" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100315_-_100x100_cm_.jpg" length="46181" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100414_-_92x73_cm_.jpg" length="28261" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/120104_-_81_x_60_cm.jpg" length="282278" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100708_-_100x50_cm_.jpg" length="19538" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100710_-_100x50_cm_-2.jpg" length="19130" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/111125_-_130_x_97_cm.jpg" length="149233" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100719_-_150x110_cm_.jpg" length="27443" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100728_-_146x89_cm_-2.jpg" length="20325" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100823_-_146x89_cm_-2.jpg" length="17146" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/101022_-_81x65_cm_.jpg" length="34696" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/101026_-_61x50_cm_.jpg" length="33448" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/Copie_de_140224_-_100_x_81_cm.jpg" length="253157" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/101116_-_20F_73x60_cm_.jpg" length="17557" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/100806_-_60F.jpg" length="130526" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/101130_-_100x100_cm.jpg" length="22557" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/101223_-_12F_-_61_x_50_cm.jpg" length="136460" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/Copie_de_140216_-_61_x_50_cm.jpg" length="173723" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/111209_-_20F-3.jpg" length="264024" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/101228_-_40F.jpg" length="254756" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110109_-_80M.jpg" length="128814" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110301_-_60M.jpg" length="107001" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/120121_-_40_x_40_cm-3.jpg" length="250751" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110331_-_25F.jpg" length="157477" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110323_-_30F.jpg" length="259170" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/111224_-_81_x_54_cm.jpg" length="139378" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110808_-_15F.jpg" length="251049" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110812_-_30F.jpg" length="254789" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110907_-_12F.jpg" length="178638" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/Copie_de_140227_-_92_x_73_cm.jpg" length="258728" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110918_-_8F.jpg" length="190206" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110919_-_40x40.jpg" length="215147" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/111030_-_40F.jpg" length="163939" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/111103_-_80_x_80_cm.jpg" length="201795" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/111218_-_20P.jpg" length="130932" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/Copie_de_140302_-_100_x_100.jpg" length="202715" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/111206_-_20F.jpg" length="171013" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/111125_-_143_x_131_cm.jpg" length="189672" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/110524_-_60F.jpg" length="146345" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/Copie_de_140212_-_50_x_50.jpg" length="190314" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/Copie_de_140203_-_60_x_60.jpg" length="222286" type="image/jpeg" />
+		
+		<enclosure url="http://www.nicolas-watine.fr/IMG/jpg/Copie_de_140105_-_100_x_81_cm.jpg" length="141028" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+</channel>
+
+</rss>
